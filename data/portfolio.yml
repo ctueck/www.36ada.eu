@@ -1,0 +1,76 @@
+portfolioitems:
+
+  # portfolio category
+  - title: Current projects and engagements
+    portfolioitem:
+
+      - name: European Quality Assurance and Recognition System
+        status: ongoing
+        authors:
+          - ICF under a European Commission framework contract
+        venue: EU
+        description: Expert support for the European Quality Assurance and Recognition System, an action within the European Strategy for Universities, including input to an ongoing feasibilit study, stakeholer consultation and the proposal of a new Council Recommendation.
+        tags:
+          - quality assurance
+          - recogniion
+          - EU
+        link: https://education.ec.europa.eu/document/commission-communication-on-a-european-strategy-for-universities
+
+      - name: Micro-Credentials Clearinghouse
+        status: ongoing
+        authors:
+          - Knowledge Innovation Centre (KIC)
+        description: Contribute to the development of different components of a \"Micro-Credential Clearinghouse\" within the context of the European University alliance EU4Dual and the Erasmus+ QualityLink project.
+        tags:
+          - European Universities
+          - micro-credentials
+          - interoperability
+        link:
+
+      - name: Needs assessment of NARIC Kosova Center
+        status: ongoing
+        authors:
+          - Kosovo Education Center / HEI'25 project
+        venue: Kosovo
+        description: Provide expertise in conducting a needs assessment of the National Center for Academic Recognition and Information (NARIC) Kosova with a focus on digitalization of work processes.
+        tags:
+          - recognition
+          - digitalisation
+          - interoperability
+        link:
+
+      - name: European Tertiary Education Register (ETER)
+        status: ongoing
+        authors:
+          - Consortium led by Università della Svizzera italiana (USI)
+        venue: Albania, Bosnia and Hercegovina, Croatia, Kosovo, Montenegro, North Macedonia, Serbia
+        description: Regional expert for Western Balkans, supporting the data collection through contacts with ministries, statistics authorities and key stakeholders, as well as contribution to analyses of ETER data.
+        tags:
+          - EU
+          - data
+          - interoperability
+        link: https://www.eter-project.com/
+
+      - name: Survey on Stakeholders' Perception of the Bologna Process
+        status: ongoing
+        authors:
+          - IN-GLOBAL project coordinated by CIMEA – Information Centre on Academic Mobility and Equivalence
+        venue: EHEA
+        description: Preparation and analysis of two surveys of stakeholders's perceptions of the Bologna Process and EHEA.
+        tags:
+          - EHEA
+          - Bologna Process
+        link: https://www.in-global.eu/
+
+      - name: Database of European Quality Assurance Results (DEQAR)
+        status: ongoing
+        authors:
+          - European Quality Assurance Register for Higher Education (EQAR)
+        venue: EHEA
+        description: Technical support – in liaison with EQAR's external software developer – for the ongoing maintenance and further development of the DEQAR database, including the inclusion of micro-credentials and alternative providers, as well as its connections with other systems, 
+        tags:
+          - quality assurance
+          - interoperability
+          - micro-credentials
+        link: https://www.deqar.eu/
+

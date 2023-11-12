@@ -1,0 +1,18 @@
+.nav__list-item,
+.sidebar__introduction-title {
+    text-transform: none;
+}
+.sidebar__introduction-title a {
+    color: #1abc9c;
+}
+.theme--light .nav__link--active {
+    color: #1abc9c;
+    border-bottom: 1px solid #1abc9c;
+}
+.theme--light a:hover {
+    color: #1abc9c;
+}
+.theme--dark a:hover {
+    color: #1abc9c;
+}
+

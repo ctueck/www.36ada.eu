@@ -1,0 +1,35 @@
+baseURL: https://draft.lju.tueck.de/
+languageCode: en
+title: 36ADA SPRL
+theme: anatole
+
+params:
+  title: Colin Tück
+  author: Colin Tück / 36ADA SPRL
+  description: Higher education policy consultant
+  profilePicture: images/profile.jpg
+  reversepagetitle: true
+  doNotLoadAnimations: true
+  customCss:
+    - css/user.css
+
+  socialIcons:
+    - icon: fab fa-linkedin
+      title: LinkedIn
+      url: https://www.linkedin.com/in/colin-tueck/
+    - icon: fab fa-facebook
+      title: Facebook
+      url: https://www.facebook.com/colin.tueck
+    - icon: fab fa-github
+      title: GitHub
+      url: https://www.github.com/ctueck
+    - icon: fas fa-envelope
+      title: e-mail
+      url: mailto:colin.tueck@36ada.eu
+
+permalinks:
+  page:
+    portfolio: /projects/:year/:slug/
+  section:
+    portfolio: /projects/
+
