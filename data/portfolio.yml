@@ -16,28 +16,17 @@ portfolioitems:
           - EU
         link: https://education.ec.europa.eu/document/commission-communication-on-a-european-strategy-for-universities
 
-      - name: Micro-Credentials Clearinghouse
+      - name: QualityLink project
         status: Ongoing
         authors:
           - Knowledge Innovation Centre (KIC)
-        description: Contribute to the development of different components of a \"Micro-Credential Clearinghouse\" within the context of the European University alliance EU4Dual and the Erasmus+ QualityLink project.
+        venue: EU
+        description: Contribution to various outputs of the Erasmus+ QualityLink project, aiming at aggregating quality data on micro-credentials in a single, open and interoperable one-stop shop. Together with DHBW Heilbronn as coordinator and EDEN Digital Learning Europe, the European University Foundation (EUF) & Mondragon Unibertsitatea as partners. Outputs include interoperable course identifiers and quality data standards to pilot data exchange and a \"Micro-credential Clearinghouse\".
         tags:
-          - European Universities
           - micro-credentials
           - interoperability
-        link:
-
-      - name: Needs assessment of NARIC Kosova Center
-        status: Ongoing
-        authors:
-          - Kosovo Education Center / HEI'25 project
-        venue: Kosovo
-        description: Provide expertise in conducting a needs assessment of the National Center for Academic Recognition and Information (NARIC) Kosova with a focus on digitalization of work processes.
-        tags:
-          - recognition
-          - digitalisation
-          - interoperability
-        link:
+          - data
+        link: https://knowledgeinnovation.eu/projects/
 
       - name: European Tertiary Education Register (ETER)
         status: Ongoing
@@ -73,4 +62,30 @@ portfolioitems:
           - interoperability
           - micro-credentials
         link: https://www.deqar.eu/
+
+  # portfolio category
+  - title: Completed projects and engagements
+    portfolioitem:
+
+      - name: Needs assessment of NARIC Kosova Center
+        status: October - December 2023
+        authors:
+          - Kosovo Education Center / HEI'25 project
+        venue: Kosovo
+        description: Provide expertise in conducting a needs assessment of the National Center for Academic Recognition and Information (NARIC) Kosova with a focus on digitalization of work processes.
+        tags:
+          - recognition
+          - digitalisation
+          - interoperability
+        link:
+
+      - name: European University alliance proposal
+        status: December 2023
+        authors:
+          - Odisee University of Applied Sciences
+        venue: Belgium
+        description: Review and provide feedback on the proposal for the creation of a new European University alliance dedicated to diversity, inclusion and equity, with a special focus on migration.
+        tags:
+          - European Universities
+        link:
 
