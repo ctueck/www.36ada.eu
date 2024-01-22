@@ -5,7 +5,7 @@ portfolioitems:
     portfolioitem:
 
       - name: European Quality Assurance and Recognition System
-        status: ongoing
+        status: Ongoing
         authors:
           - ICF under a European Commission framework contract
         venue: EU
@@ -17,7 +17,7 @@ portfolioitems:
         link: https://education.ec.europa.eu/document/commission-communication-on-a-european-strategy-for-universities
 
       - name: Micro-Credentials Clearinghouse
-        status: ongoing
+        status: Ongoing
         authors:
           - Knowledge Innovation Centre (KIC)
         description: Contribute to the development of different components of a \"Micro-Credential Clearinghouse\" within the context of the European University alliance EU4Dual and the Erasmus+ QualityLink project.
@@ -28,7 +28,7 @@ portfolioitems:
         link:
 
       - name: Needs assessment of NARIC Kosova Center
-        status: ongoing
+        status: Ongoing
         authors:
           - Kosovo Education Center / HEI'25 project
         venue: Kosovo
@@ -40,7 +40,7 @@ portfolioitems:
         link:
 
       - name: European Tertiary Education Register (ETER)
-        status: ongoing
+        status: Ongoing
         authors:
           - Consortium led by Università della Svizzera italiana (USI)
         venue: Albania, Bosnia and Hercegovina, Croatia, Kosovo, Montenegro, North Macedonia, Serbia
@@ -52,7 +52,7 @@ portfolioitems:
         link: https://www.eter-project.com/
 
       - name: Survey on Stakeholders' Perception of the Bologna Process
-        status: ongoing
+        status: Ongoing
         authors:
           - IN-GLOBAL project coordinated by CIMEA – Information Centre on Academic Mobility and Equivalence
         venue: EHEA
@@ -63,7 +63,7 @@ portfolioitems:
         link: https://www.in-global.eu/
 
       - name: Database of European Quality Assurance Results (DEQAR)
-        status: ongoing
+        status: Ongoing
         authors:
           - European Quality Assurance Register for Higher Education (EQAR)
         venue: EHEA
