@@ -2,13 +2,37 @@
 .sidebar__introduction-title {
     text-transform: none;
 }
+
 .sidebar__introduction-title a {
     color: #1abc9c;
 }
+
+.theme--light .portfolio__description {
+    background-color: #ffdade;
+}
+.theme--dark .portfolio__description {
+    background-color: #48292c;
+}
+
+.theme--light .portfolio__button {
+    border-color: #48292c;
+    color: #ffdade;
+    background-color: #48292c;
+}
+.theme--light .portfolio__button:hover {
+    border-color: #9f9f9f;
+    background: none;
+}
+.theme--dark .portfolio__button {
+    border-color: #ffdade;
+    color: #ffdade;
+}
+
 .theme--light .nav__link--active {
     color: #1abc9c;
     border-bottom: 1px solid #1abc9c;
 }
+
 .theme--light a:hover {
     color: #1abc9c;
 }
