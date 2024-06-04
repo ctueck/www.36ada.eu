@@ -4,17 +4,17 @@ portfolioitems:
   - title: Current projects and engagements
     portfolioitem:
 
-      - name: European Quality Assurance and Recognition System
+      - name: Senior Expert on Higher Education Interoperability
         status: Ongoing
         authors:
-          - ICF under a European Commission framework contract
+          - German Academic Exchange Service (DAAD)
         venue: EU
-        description: Expert support for the European Quality Assurance and Recognition System, an action within the European Strategy for Universities, including input to an ongoing feasibilit study, stakeholer consultation and the proposal of a new Council Recommendation, featuring a proposal for cross-institutional external quality assurance of European University alliances.
+        description: "Provide expert support to DAAD's work on a Higher Education Interoperability Framework (HE IO) under the umbrella of the European Digital Education Hub (EDEH), including: engagement with the DAAD with the DAAD management team, the EDEH HE IO consortium, Core Expert Group and the wider Workgroup; co-drafting and reviewing key deliverables to inform the Interoperability Framework."
         tags:
-          - quality assurance
-          - recogniion
+          - interoperability
+          - data
           - European Universities
-        link: https://education.ec.europa.eu/document/commission-communication-on-a-european-strategy-for-universities
+        link: https://education.ec.europa.eu/focus-topics/digital-education/digital-education-hub/workshops-and-working-groups/european-higher-education-interoperability
 
       - name: QualityLink project
         status: Ongoing
@@ -26,7 +26,7 @@ portfolioitems:
           - micro-credentials
           - interoperability
           - data
-        link: https://knowledgeinnovation.eu/projects/
+        link: https://quality-link.eu/
 
       - name: European Tertiary Education Register (ETER)
         status: Ongoing
@@ -39,17 +39,6 @@ portfolioitems:
           - data
           - interoperability
         link: https://www.eter-project.com/
-
-      - name: Survey on Stakeholders' Perception of the Bologna Process
-        status: Ongoing
-        authors:
-          - IN-GLOBAL project coordinated by CIMEA – Information Centre on Academic Mobility and Equivalence
-        venue: EHEA
-        description: Preparation and analysis of two surveys of stakeholders's perceptions of the Bologna Process and EHEA.
-        tags:
-          - EHEA
-          - Bologna Process
-        link: https://www.in-global.eu/
 
       - name: Database of European Quality Assurance Results (DEQAR)
         status: Ongoing
@@ -67,6 +56,50 @@ portfolioitems:
   - title: Completed projects and engagements
     portfolioitem:
 
+      - name: ESG self-evaluation report by KAA
+        status: April - May 2024
+        authors:
+          - Kosovo Education Center / HEI'25 project
+        venue: Kosovo
+        description: Review and feedback on the self-evaluation report produced by the Kosovo Accreditation Agency (KAA) in the context of its current review against the Standards and Guidelines for Quality Assurance in the EHEA (ESG) for the purposes of EQAR registration and ENQA membership.
+        tags:
+          - quality assurance
+          - ESG
+        link: https://akreditimi.rks-gov.net/wp-content/uploads/Self-Assesment-Report-Kosovo-Accreditation-Agency.pdf
+
+      - name: European Quality Assurance and Recognition System
+        status: May 2023 - Apr 2024
+        authors:
+          - ICF under a European Commission framework contract
+        venue: EU
+        description: Expert support for the European Quality Assurance and Recognition System, an action within the European Strategy for Universities, including input to an ongoing feasibilit study, stakeholer consultation and the proposal of a new Council Recommendation, featuring a proposal for cross-institutional external quality assurance of European University alliances.
+        tags:
+          - quality assurance
+          - recogniion
+          - European Universities
+        link: https://education.ec.europa.eu/document/proposal-for-a-council-recommendation-on-a-european-quality-assurance-and-recognition-system-in-higher-education
+
+      - name: Survey on Stakeholders' Perception of the Bologna Process
+        status: May 2023 – February 2024
+        authors:
+          - IN-GLOBAL project coordinated by CIMEA – Information Centre on Academic Mobility and Equivalence
+        venue: EHEA
+        description: Preparation and analysis of two surveys of stakeholders's perceptions of the Bologna Process and EHEA.
+        tags:
+          - EHEA
+          - Bologna Process
+        link: https://www.in-global.eu/
+
+      - name: European University alliance proposal
+        status: December 2023
+        authors:
+          - Odisee University of Applied Sciences
+        venue: Belgium
+        description: Review and provide feedback on the proposal for the creation of a new European University alliance dedicated to diversity, inclusion and equity, with a special focus on migration.
+        tags:
+          - European Universities
+        link: https://www.odisee.be/
+
       - name: Needs assessment of NARIC Kosova Center
         status: October - December 2023
         authors:
@@ -77,15 +110,5 @@ portfolioitems:
           - recognition
           - digitalisation
           - interoperability
-        link:
-
-      - name: European University alliance proposal
-        status: December 2023
-        authors:
-          - Odisee University of Applied Sciences
-        venue: Belgium
-        description: Review and provide feedback on the proposal for the creation of a new European University alliance dedicated to diversity, inclusion and equity, with a special focus on migration.
-        tags:
-          - European Universities
-        link:
+        link: https://kec-ks.org/en/programet/higher-education-intervention-2025-hei25/
 
