@@ -28,17 +28,17 @@ portfolioitems:
           - data
         link: https://quality-link.eu/
 
-      - name: European Tertiary Education Register (ETER)
+      - name: European Higher Education Sector Observatory (EHESO)
         status: Ongoing
         authors:
-          - Consortium led by Università della Svizzera italiana (USI)
-        venue: Albania, Bosnia and Hercegovina, Croatia, Kosovo, Montenegro, North Macedonia, Serbia
-        description: Regional expert for Western Balkans, supporting the data collection through contacts with ministries, statistics authorities and key stakeholders, as well as contribution to analyses of ETER data.
+          - Consortium led by PPMI
+        venue: Western Balkans (Albania, Bosnia and Hercegovina, Kosovo, Montenegro, North Macedonia, Serbia), Romania and Slovenia
+        description: Regional expert, supporting the data collection by securing contacts, targeted dissemination activities and supporting the preparation of materials such as country reports.
         tags:
           - EU
           - data
           - interoperability
-        link: https://www.eter-project.com/
+        link: https://www.eacea.ec.europa.eu/news-events/news/launching-eheso-european-higher-education-sector-observatory-2024-05-13_en
 
       - name: Database of European Quality Assurance Results (DEQAR)
         status: Ongoing
@@ -78,6 +78,18 @@ portfolioitems:
           - recogniion
           - European Universities
         link: https://education.ec.europa.eu/document/proposal-for-a-council-recommendation-on-a-european-quality-assurance-and-recognition-system-in-higher-education
+
+      - name: European Tertiary Education Register (ETER)
+        status: May 2023 - Apr 2024
+        authors:
+          - Consortium led by Università della Svizzera italiana (USI)
+        venue: Albania, Bosnia and Hercegovina, Croatia, Kosovo, Montenegro, North Macedonia, Serbia, Slovenia
+        description: Regional expert for Western Balkans, supporting the data collection through contacts with ministries, statistics authorities and key stakeholders, as well as contribution to analyses of ETER data.
+        tags:
+          - EU
+          - data
+          - interoperability
+        link: https://www.eter-project.com/
 
       - name: Survey on Stakeholders' Perception of the Bologna Process
         status: May 2023 – February 2024
