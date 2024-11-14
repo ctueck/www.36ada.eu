@@ -52,20 +52,20 @@ portfolioitems:
           - micro-credentials
         link: https://www.deqar.eu/
 
-  # portfolio category
-  - title: Completed projects and engagements
-    portfolioitem:
-
-      - name: ESG self-evaluation report by KAA
-        status: April - May 2024
+      - name: ESG evaluation of KAA
+        status: Ongoing
         authors:
-          - Kosovo Education Center / HEI'25 project
+          - Kosovo Education Center / HEI'25 project, KAA
         venue: Kosovo
-        description: Review and feedback on the self-evaluation report produced by the Kosovo Accreditation Agency (KAA) in the context of its current review against the Standards and Guidelines for Quality Assurance in the EHEA (ESG) for the purposes of EQAR registration and ENQA membership.
+        description: Support to the Kosovo Accreditation Agency (KAA) throughout its review against the Standards and Guidelines for Quality Assurance in the EHEA (ESG), coordinated by ENQA. Including review and feedback on the self-evaluation by KAA, as well as follow-up on the final report.
         tags:
           - quality assurance
           - ESG
         link: https://akreditimi.rks-gov.net/wp-content/uploads/Self-Assesment-Report-Kosovo-Accreditation-Agency.pdf
+
+  # portfolio category
+  - title: Completed projects and engagements
+    portfolioitem:
 
       - name: European Quality Assurance and Recognition System
         status: May 2023 - Apr 2024
