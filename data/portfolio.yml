@@ -4,18 +4,6 @@ portfolioitems:
   - title: Current projects and engagements
     portfolioitem:
 
-      - name: Senior Expert on Higher Education Interoperability
-        status: Ongoing
-        authors:
-          - German Academic Exchange Service (DAAD)
-        venue: EU
-        description: "Provide expert support to DAAD's work on a Higher Education Interoperability Framework (HE IO) under the umbrella of the European Digital Education Hub (EDEH), including: engagement with the DAAD management team, the EDEH HE IO consortium, Core Expert Group and the wider Workgroup; co-drafting and reviewing key deliverables to inform the Interoperability Framework."
-        tags:
-          - interoperability
-          - data
-          - European Universities
-        link: https://education.ec.europa.eu/focus-topics/digital-education/digital-education-hub/workshops-and-working-groups/european-higher-education-interoperability
-
       - name: QualityLink project
         status: Ongoing
         authors:
@@ -27,6 +15,30 @@ portfolioitems:
           - interoperability
           - data
         link: https://quality-link.eu/
+
+      - name: Revision of the ECTS Users' Guide
+        status: Ongoing
+        authors:
+          - ICF under a European Commission framework contract
+        venue: EHEA
+        description: Lead expert to support the revision of the European Credit Transfer and Accumulation System (ECTS) Users' Guide, including collaborating with the ICF study team performing research, preparing drafts of the revised Guide and supporting the European Commission in chairing the ad-hoc Advisory Group.
+        tags:
+          - skills
+          - micro-credentials
+          - recogniion
+        link: https://ehea.info/page.php?id=683
+
+      - name: European Digital Education Hub (EDEH)
+        status: Ongoing
+        authors:
+          - Knowledge Innovation Centre (KIC)
+        venue: EU
+        description: Coordinate activities related to the higher education interoperability organised under the umbrella of EDEH.
+        tags:
+          - interoperability
+          - data
+          - European Universities
+        link: https://education.ec.europa.eu/focus-topics/digital-education/digital-education-hub/workshops-and-working-groups/european-higher-education-interoperability
 
       - name: European Higher Education Sector Observatory (EHESO)
         status: Ongoing
@@ -52,8 +64,24 @@ portfolioitems:
           - micro-credentials
         link: https://www.deqar.eu/
 
+  # portfolio category
+  - title: Completed projects and engagements
+    portfolioitem:
+
+      - name: Senior Expert on Higher Education Interoperability
+        status: Mar 2024 - Feb 2025
+        authors:
+          - German Academic Exchange Service (DAAD)
+        venue: EU
+        description: "Provide expert support to DAAD's work on a Higher Education Interoperability Framework (HE IO) under the umbrella of the European Digital Education Hub (EDEH), including: engagement with the DAAD management team, the EDEH HE IO consortium, Core Expert Group and the wider Workgroup; co-drafting and reviewing key deliverables to inform the Interoperability Framework."
+        tags:
+          - interoperability
+          - data
+          - European Universities
+        link: https://education.ec.europa.eu/focus-topics/digital-education/digital-education-hub/workshops-and-working-groups/european-higher-education-interoperability
+
       - name: ESG evaluation of KAA
-        status: Ongoing
+        status: Apr 2024 - Jan 2025
         authors:
           - Kosovo Education Center / HEI'25 project, KAA
         venue: Kosovo
@@ -62,10 +90,6 @@ portfolioitems:
           - quality assurance
           - ESG
         link: https://akreditimi.rks-gov.net/wp-content/uploads/Self-Assesment-Report-Kosovo-Accreditation-Agency.pdf
-
-  # portfolio category
-  - title: Completed projects and engagements
-    portfolioitem:
 
       - name: European Quality Assurance and Recognition System
         status: May 2023 - Apr 2024
