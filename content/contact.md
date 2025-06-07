@@ -13,7 +13,7 @@ title: Contact
 
 ## Legal information
 
-36ADA SPRL \
+Knowledge Innovation Centre (KIC) Benelux SRL
 Avenue Louis Bertrand 100/14A \
 1030 Brussels \
 Belgium
